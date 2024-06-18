@@ -7,10 +7,37 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="744.09448"
-   height="1052.3622"
-   id="svg2">
+   width="451"
+   height="451"
+   id="svg2"
+   sodipodi:docname="logo_3.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview7"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.22425739"
+     inkscape:cx="-271.69654"
+     inkscape:cy="225.5"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -24,19 +51,13 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
-    <circle
-       cx="0"
-       cy="0"
-       r="218"
+     id="layer1"
+     transform="translate(225.5,225.5)">
+    <path
+       style="fill:#b87333;stroke:#ddbc9e;stroke-width:15"
+       d="m 225.5,7.5 a 218,218 0 0 0 -218,218 218,218 0 0 0 218,218 218,218 0 0 0 218,-218 218,218 0 0 0 -218,-218 z m -72,146 h 144 v 144 h -144 z"
+       transform="translate(-225.5,-225.5)"
        id="circle9"
-       style="fill:#b87333;stroke:#ddbc9e;stroke-width:15;" />
-    <rect
-       width="144"
-       height="144"
-       x="-72"
-       y="-72"
-       id="rect3026"
-       style="fill:#ffffff;stroke:#ddbc9e;stroke-width:15;" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
